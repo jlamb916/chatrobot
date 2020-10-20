@@ -13,12 +13,18 @@ module.exports = function(controller) {
         await bot.reply(message, `Echo: ${ message.text }`);
     });
 
-    //looks for specific key words
+    
+    controller.hears("yolo", "message", async (bot, message) => {
+        await bot.reply(message, "hey yolo right back atcha")
+    });
+    // respond to events by reciving event details and takes actions
+   
+   // looks for specific key words
     controller.hears(".*", "message", async (bot, message) => {
       await bot.reply(message, "I heard: " + message.text);
     });
-
-    // respond to events by reciving event details and takes actions
+    
+    
     controller.on("event", async (bot, message) => {
       await bot.reply(message, "I received an event of type " + message.type);
     });
