@@ -19,4 +19,7 @@ module.exports = function(controller) {
         await bot.reply(message,{ text: 'I HEARD ALL CAPS!' });
     });
 
+     controller.hears("hello", "direct_message", async (bot, message) => {
+       await bot.reply(message, "Hello yourself!");
+     });
 }
