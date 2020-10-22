@@ -1,0 +1,20 @@
+{
+    "info": {
+        "name": "John Lam",
+        "role": "software engineer",
+        "hobbies": "exercise, reading, hobby",
+        "education": "UCLA & App Academy",
+        "love": "My baby boy Foster",
+        "contact": {
+            "email": "johnlamll916@gmail.com",
+            "phone": "(650)823-3921",
+            "linkedin": "",
+            "github": "",
+            "angelList": ""
+        },
+        "location": {
+            "city": "SF, CA",
+            "country": "USA"
+        }
+    }
+}

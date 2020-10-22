@@ -9,7 +9,7 @@ module.exports = function(controller) {
   });
 
   controller.on("message,direct_message", async (bot, message) => {
-    await bot.reply(message, `Echo: ${message.text}`);
+    await bot.reply(message, `Sorry, I Does not COMPUTE`);
   });
 
   controller.hears("yolo", "message", async (bot, message) => {
@@ -31,7 +31,7 @@ module.exports = function(controller) {
 
   // looks for specific key words
   controller.hears(".*", "message", async (bot, message) => {
-    await bot.reply(message, "I heard: " + message.text);
+    await bot.reply(message, "Sorry I does not compute " + message.text);
   });
 
   controller.on("event", async (bot, message) => {
