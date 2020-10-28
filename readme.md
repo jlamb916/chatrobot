@@ -12,22 +12,22 @@
 ## Projects
 
 ### Striva - Ruby on Rails, React, Redux, Jquery, AJAX PostgreSQL, MapBox API      
+###### [Live Link](https://striva2.herokuapp.com/) | [Github](https://github.com/jlamb916/Striva)
 An activity tracker app based off Strava utilizing MapBox API for live GPS map rendering and user generated route creation.
-[Live Link](https://striva2.herokuapp.com/) | [Github](https://github.com/jlamb916/Striva)
 * Leveraged Mapbox’s static image generation API by parsing and reconstructing JSON map data to retrieve static routes images directly rather than storing images in the database, thereby reducing data storage load
 * Implemented Flux Architecture using Redux to manage application state and constructed a normalized state shape pattern to delegate render responsibility directly to key components, optimizing UI performance by mitigating the need for reflow. 
 * Harnessed React to build out Single-Page-Application by isolating components based on separation of concerns, allowing for efficient rendering of components.
 
 ### Mastery - JavaScript, Node.js, React, Redux, MongoDB, Mongoose, and Express.js     	
+###### [Live Link](https://masteryapp.herokuapp.com/) | [Github](https://github.com/codedbyq/Mastery)
 An app to track and measure your skills, create and view associated tasks, with time tracking and social media features. 
-[Live Link](https://masteryapp.herokuapp.com/) | [Github](https://github.com/codedbyq/Mastery)
 * Employed Mongoose API to to model and manipulate MongoDB data for backend features tasks and followers. Added additional validation constraints using Validator library to ensure valid database entries.
 * Seamlessly integrated tasks feature into an already existing react framework by adding a tasks slice of state through redux, axios requests to fetch backend tasks data, and lightweight React components to display, edit, and create new tasks.
 * Spun up a web server framework using Express.js for quick deployment and built RESTful routes to handle requests for users, followers, tasks.
 
-### Jumper - Vanilla JavaScript and HTML5 Canvas                           					                Live Site | Github
+### Jumper - Vanilla JavaScript and HTML5 Canvas
+###### [Live Link](https://jlamb916.github.io/jumpman/) | [Github](https://github.com/jlamb916/jumpman)
 A vertical platform game inspired by Doodle Jump.
-[Live Link](https://jlamb916.github.io/jumpman/) | [Github](https://github.com/jlamb916/jumpman)
 * Utilized OOP principles to encapsulate game states and modularize classes to maintain clean and concise code.
 * Rendered frames using pure HTML canvas to animate objects by using a requestAnimateFrame loop which makes asynchronous calls to a game loop and renders the map at a high resolution frame rate.
 * Applied native JavaScript manipulation tools by attaching event listeners to keep track of objects movement and enables the user to start the game with a press of a button.
