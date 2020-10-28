@@ -4,7 +4,7 @@
 
 ## General
 
-#### Hey, I'm John. I am a software engineer who's been lucky enough to experience a traditional education system at UCLA and fortunate enough to explore innovative and disruptive education systems at 42 Silicon Valley and App Academy. These experiences have led me to be extremely passionate about learning tech and figuring out the best ways to deliver amazing content to users. Over the past 2 years, I’ve honed my skills as a software engineer. I've built fully function backend programs in C and multiple full-stack applications in Rails, Ruby, Javascript, MERN. I'm at the stage of my software development career where I am confident and excited to contribute my software engineering skills. I would love that place to be Microsoft. 
+Hey, I'm John. I am a software engineer who's been lucky enough to experience a traditional education system at UCLA and fortunate enough to explore innovative and disruptive education systems at 42 Silicon Valley and App Academy. These experiences have led me to be extremely passionate about learning tech and figuring out the best ways to deliver amazing content to users. Over the past 2 years, I’ve honed my skills as a software engineer. I've built fully function backend programs in C and multiple full-stack applications in Rails, Ruby, Javascript, MERN. I'm at the stage of my software development career where I am confident and excited to contribute my software engineering skills. I would love that place to be Microsoft. 
 
 ## Skills
 * JavaScript, React, Redux, HTML, CSS, Ruby, Ruby on Rails, C,  Mongoose, MongoDB, Node.js, Express.js, SQL, SQLite3, PostgreSQL, Webpack, jQuery, Git, Heroku
@@ -35,19 +35,19 @@
 ## EXPERIENCE
 
 ### Claris, September 2019 - Dec 2019
-##### Application Developer Intern		
+#### Application Developer Intern		
 * Researched, analyzed, and translated client needs into technical requirements, business solutions, and UI design.
 * Wrote and implemented 50+ scripts for Homeless Youth Center applications aimed at improving workflow and functionality such as pattern recognition search and merge records
 * Took initiative to lead a team of 3 to organize and facilitate meetings on product specifications regarding wireframing, workflow, and product design
 * Collaborated with Filemaker experts to implement a feature that allowed for the generation of custom reports based on certain demographics.
 
 ### Ramen O Restaurant, November 2018 - June 2019
-##### Supervisor 
+#### Supervisor 
 * Experience managing multiple tasks such as supervising kitchen and wait staff during fast, high traffic evenings, and addressing customer concerns.
 * Reviewed prospective applicants resumes and facilitated training of employees on customer service and day-to-day operation.
 
 ### 24 Hour Fitness,  January 2018 - June 2018
-##### Sales Advisor
+#### Sales Advisor
 * Delivered excellent customer service and was tapped to do sales outreach at partnered businesses (Genentech, Torani).
 * Utilized Oracle CRM to identify client needs and optimize sales strategies to improve membership retention and sales.
 * Worked in close collaboration with clients to identify their needs and composed strategies to achieve fitness goals.
