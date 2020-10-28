@@ -10,7 +10,12 @@ This bot is powered by [a folder full of modules](https://botkit.ai/docs/v4/core
 Edit the samples, and add your own in the [features/](features/) folder.
 
 
-# John Lam Resume
+# John Lam - Software Engineer - Resume 
+[LinkedIn](https://www.linkedin.com/in/johnlam916/) |  [GitHub](https://github.com/jlamb916) | [Portfolio](https://jlamb916.github.io/) | Email: johnlamll916@gmail.com 
+
+## General
+
+#### Hey, I'm John. I am a software engineer who's been lucky enough to experience a traditional education system at UCLA and fortunate enough to explore innovative and disruptive education systems at 42 Silicon Valley and App Academy. These experiences have led me to be extremely passionate about learning tech and figuring out the best ways to deliver amazing content to users. Over the past 2 years, I’ve honed my skills as a software engineer. I've built fully function backend programs in C and multiple full-stack applications in Rails, Ruby, Javascript, MERN. I'm at the stage of my software development career where I am confident and excited to contribute my software engineering skills. I would love that place to be Microsoft. 
 
 ## Skills
 * JavaScript, React, Redux, HTML, CSS, Ruby, Ruby on Rails, C,  Mongoose, MongoDB, Node.js, Express.js, SQL, SQLite3, PostgreSQL, Webpack, jQuery, Git, Heroku
